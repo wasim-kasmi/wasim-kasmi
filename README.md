@@ -1,10 +1,5 @@
 ## Hi there 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg">
-  <source media="(prefers-color-scheme: light)" src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg">
-  <img alt="Shows an illustrated set up of worker." src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg">
-</picture>
-
+<img src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg" style="width:100%; height:300px">
 **wasim-kasmi/wasim-kasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
