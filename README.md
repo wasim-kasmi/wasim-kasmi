@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg" style="width:60%; height:300px">
+<img src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg" style="width:90%; height:300px">
 **wasim-kasmi/wasim-kasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
