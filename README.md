@@ -1,7 +1,7 @@
 ## Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/photos-premium/illustration-joueur-configuration-ordinateur-bureau-jeu_691560-5756.jpg">
-  <source media="(prefers-color-scheme: light)" srcset=https://img.freepik.com/photos-premium/illustration-joueur-configuration-ordinateur-bureau-jeu_691560-5756.jpg">
+  <source media="(prefers-color-scheme: dark)" src="https://img.freepik.com/photos-premium/illustration-joueur-configuration-ordinateur-bureau-jeu_691560-5756.jpg">
+  <source media="(prefers-color-scheme: light)" src=https://img.freepik.com/photos-premium/illustration-joueur-configuration-ordinateur-bureau-jeu_691560-5756.jpg">
   <img alt="Shows an illustrated set up of worker." src="https://img.freepik.com/photos-premium/illustration-joueur-configuration-ordinateur-bureau-jeu_691560-5756.jpg">
 </picture>
 
