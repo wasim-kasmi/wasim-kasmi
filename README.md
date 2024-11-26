@@ -1,5 +1,6 @@
-## Hi there 👋
-<img src="https://w0.peakpx.com/wallpaper/755/646/HD-wallpaper-japanese-temple-illustration-japanese-illustration-artist-artwork-digital-art.jpg" style="width:100%; height:400px">
+## Hi there my friends👋
+## Je m'appelle Kasmi Wasim
+<img src="https://media.licdn.com/dms/image/D5612AQEVyegoibvD5w/article-cover_image-shrink_720_1280/0/1673538625340?e=2147483647&v=beta&t=cE1vyiYOFE9J9Q7tuUc3hvrxNIbrjThq6LIgg-rXUU0" style="width:100%; height:400px">
 **wasim-kasmi/wasim-kasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
