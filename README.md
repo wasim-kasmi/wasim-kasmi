@@ -1,6 +1,10 @@
 ## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.google.fr/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fphotos-premium%2Fillustration-joueur-configuration-ordinateur-bureau-jeu_35104146.htm&psig=AOvVaw2MghVrLYXgO3-ZgqdJ2o1E&ust=1732700839894000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi8ieLb-YkDFQAAAAAdAAAAABAE">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.google.fr/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fphotos-premium%2Fillustration-joueur-configuration-ordinateur-bureau-jeu_35104146.htm&psig=AOvVaw2MghVrLYXgO3-ZgqdJ2o1E&ust=1732700839894000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi8ieLb-YkDFQAAAAAdAAAAABAE">
+  <img alt="Shows an illustrated set up of worker." src="https://www.google.fr/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fphotos-premium%2Fillustration-joueur-configuration-ordinateur-bureau-jeu_35104146.htm&psig=AOvVaw2MghVrLYXgO3-ZgqdJ2o1E&ust=1732700839894000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi8ieLb-YkDFQAAAAAdAAAAABAEg">
+</picture>
 
-<!--
 **wasim-kasmi/wasim-kasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
