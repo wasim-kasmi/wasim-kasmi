@@ -1,8 +1,8 @@
 ## Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="https://imgcdn.stablediffusionweb.com/2024/10/11/add7002d-ccb3-4fe7-a6bc-6cc4fbe736f8.jpg" style="width=100%">
-  <source media="(prefers-color-scheme: light)" src=https://imgcdn.stablediffusionweb.com/2024/10/11/add7002d-ccb3-4fe7-a6bc-6cc4fbe736f8.jpg">
-  <img alt="Shows an illustrated set up of worker." src="https://imgcdn.stablediffusionweb.com/2024/10/11/add7002d-ccb3-4fe7-a6bc-6cc4fbe736f8.jpg">
+  <source media="(prefers-color-scheme: dark)" src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg">
+  <source media="(prefers-color-scheme: light)" src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg">
+  <img alt="Shows an illustrated set up of worker." src="https://i.etsystatic.com/24922469/r/il/6b14ad/4184924737/il_570xN.4184924737_827y.jpg">
 </picture>
 
 **wasim-kasmi/wasim-kasmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
