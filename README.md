@@ -9,4 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning IT
 - 📫 How to reach me: https://github.com/wasim-kasmi
 -->
-## Technology and tools
+## Technology and Tools
+Python
+HTML 5
