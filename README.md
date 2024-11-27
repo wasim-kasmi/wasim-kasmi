@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://github.com/wasim-kasmi
 -->
 ## Technology and Tools
-Python
-HTML 5
+Python 
+HTML 5 <img src="https://th.bing.com/th/id/R.339598c0752c3a7dfeaf4c96ac30c94d?rik=vfz9QSLVdZBcZw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2017%2f07%2fHTML5_logo.png&ehk=7%2fEaxlDKEk6GHxynn9uBS5GrBqhTyhGdgeeN2EhmyoE%3d&risl=&pid=ImgRaw&r=0">
